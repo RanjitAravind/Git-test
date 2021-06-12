@@ -52,4 +52,10 @@ public class Gittest {
 	{
 		System.out.println("Testing");
 	}
+	
+	public static void Ezhil1()
+	{
+		
+		System.out.println("testing");
+	}
 }
