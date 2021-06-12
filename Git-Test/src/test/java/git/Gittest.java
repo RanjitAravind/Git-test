@@ -7,6 +7,7 @@ public class Gittest {
 
 		
 		 ranjit();
+		 karna();
 		
 	}
 	
@@ -14,6 +15,24 @@ public class Gittest {
 	{
 		System.out.println("Testing");
 	}
+
+	public static void karna()
+	{
+		System.out.println("Testing");
+	}
+	public static void Aravind()
+	{
+		System.out.println("Testing");
+	}
+	public static void athi()
+	{
+		System.out.println("Testing");
+	}
+	public static void sivam()
+	{
+		System.out.println("Testing");
+	}
+ 
 	public static void ara()
 	{
 		System.out.println("Testing");
@@ -21,4 +40,9 @@ public class Gittest {
 	
 
 
+
+	public static void ezhil()
+	{
+		System.out.println("Testing");
+	}
 }
