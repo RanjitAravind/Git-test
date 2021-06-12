@@ -23,5 +23,9 @@ public class Gittest {
 	{
 		System.out.println("Testing");
 	}
+	public static void athi()
+	{
+		System.out.println("Testing");
+	}
 
 }
