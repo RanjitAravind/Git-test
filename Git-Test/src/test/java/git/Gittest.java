@@ -32,4 +32,8 @@ public class Gittest {
 		System.out.println("Testing");
 	}
 
+	public static void ezhil()
+	{
+		System.out.println("Testing");
+	}
 }
