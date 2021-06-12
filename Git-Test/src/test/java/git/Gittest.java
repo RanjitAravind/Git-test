@@ -27,5 +27,9 @@ public class Gittest {
 	{
 		System.out.println("Testing");
 	}
+	public static void sivam()
+	{
+		System.out.println("Testing");
+	}
 
 }
