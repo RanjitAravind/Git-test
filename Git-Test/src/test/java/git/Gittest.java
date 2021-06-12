@@ -41,7 +41,10 @@ public class Gittest {
 	{
 		System.out.println("Testing");
 	}
-	
+		public static void KK1()
+	{
+      System.out.println("in git");
+  }
 
 
 
