@@ -7,10 +7,15 @@ public class Gittest {
 
 		
 		 ranjit();
+		 karna();
 		
 	}
 	
 	public static void ranjit()
+	{
+		System.out.println("Testing");
+	}
+	public static void karna()
 	{
 		System.out.println("Testing");
 	}
