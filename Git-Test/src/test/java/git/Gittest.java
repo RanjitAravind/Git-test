@@ -14,6 +14,10 @@ public class Gittest {
 	{
 		System.out.println("Testing");
 	}
+	public static void ara()
+	{
+		System.out.println("Testing");
+	}
 	
 
 
