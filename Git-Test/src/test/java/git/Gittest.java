@@ -37,6 +37,10 @@ public class Gittest {
 	{
 		System.out.println("Testing");
 	}
+	public static void goten()
+	{
+		System.out.println("Testing");
+	}
 	
 
 
