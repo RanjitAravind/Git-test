@@ -6,7 +6,7 @@ public class Gittest {
 		// TODO Auto-generated method stub
 
 		
-		 ranjit();
+		
 		 karna();
 		
 	}
